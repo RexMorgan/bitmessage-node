@@ -1,0 +1,17 @@
+{
+  "name": "bitmessage-node",
+  "description": "Node wrapper for bitmessage client api",
+  "version": "0.1.0",
+  "dependencies": {
+    "xmlrpc": "1.1.0",
+    "moment": "2.0.0"
+  },
+  "keywords": ["bitmessage", "crypto", "anonymous", "api", "wrapper"],
+  "homepage": "https://github.com/rexmorgan/bitmessage-node",
+  "author": "Rex Morgan <rex.morgan@gmail.com> (http://rexflex.net)",
+  "main": "./lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rexmorgan/bitmessage-node.git"
+  }
+}
