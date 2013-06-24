@@ -1,7 +1,7 @@
 {
   "name": "bitmessage-node",
   "description": "Node wrapper for bitmessage client api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "xmlrpc": "1.1.0",
     "moment": "2.0.0"
