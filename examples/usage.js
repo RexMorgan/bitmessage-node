@@ -1,7 +1,7 @@
 var bitmessage = require('../lib/main')('localhost', 8442, 'user', 'password');
 
 try {
-  bitmessage.test.hello('Hi', 'Bob', function(value) {
+  bitmessage.messages.sent.list(function(value) {
     console.dir(value);
   });
 }
