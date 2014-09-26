@@ -82,3 +82,5 @@ If you plan on connecting to a remote Bitmessage server, you should *absolutely*
 * [API Reference](https://bitmessage.org/wiki/API_Reference#List_of_Operations)
 
 
+The MIT License (MIT)
+
