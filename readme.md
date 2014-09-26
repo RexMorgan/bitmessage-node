@@ -14,7 +14,7 @@ Bitmessage client for the API written in Node.js.
 ## Usage
 
     //establish connection to Bitmessage server
-    bm = require('bitmessage-node')(host, port, username, password);
+    var bm = require('bitmessage-node')(host, port, username, password);
 
     //get inbox list
     bm.messages.inbox.list(cb); //returns list of messages
