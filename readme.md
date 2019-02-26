@@ -1,3 +1,8 @@
+Archived
+=========
+
+This project is now archived. Please feel free to fork it if needed.
+
 bitmessage-node
 =========
 
